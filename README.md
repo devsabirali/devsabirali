@@ -56,10 +56,6 @@
 
 </div>
 
-> **GitHub stats broken?** The old `github-readme-stats.vercel.app` service is down. This README now uses `github-profile-summary-cards` instead.
->
-> **Snake not showing?** Run the workflow once: **Actions → Generate Snake → Run workflow**. Wait 2 min, then refresh. File must exist at `.github/workflows/snake.yml`.
-
 ---
 
 ## 👨‍💻 About Me
