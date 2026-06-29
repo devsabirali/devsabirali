@@ -29,8 +29,42 @@
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4e2ac080d263.png" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--  COMMIT ACTIVITY — right below intro        -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 📈 GitHub Commit Activity
+
+<div align="center">
+
+<!-- Activity line graph — works immediately, no setup needed -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsabirali&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=FFFFFF&area=true&height=300" alt="GitHub commit activity graph" width="100%"/>
+
+<br/><br/>
+
+<!-- Contribution calendar bar chart — works immediately -->
+<img src="https://ghchart.rshah.org/devsabirali" alt="GitHub contribution chart" width="100%"/>
+
+<br/><br/>
+
+<!-- Stats row -->
+<img src="https://github-readme-stats.vercel.app/api?username=devsabirali&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0&bg_color=0D1117&border_radius=16&rank_icon=github" alt="GitHub stats" height="180"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=devsabirali&theme=transparent&hide_border=true&background=0D1117&border_radius=16&ring=38BDF8&fire=667eea&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&dates=94A3B8" alt="GitHub streak" height="180"/>
+
+<br/><br/>
+
+<!-- Snake animation — appears after running .github/workflows/snake.yml once -->
+<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-8d8290328b58.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--  ABOUT & DETAILS                            -->
+<!-- ═══════════════════════════════════════════ -->
 
 ## 👨‍💻 About Me
 
@@ -89,8 +123,6 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 | 📊 **ERP** | Frappe ERPNext customization & business automation |
 | 👥 **Quality** | Code reviews, mentoring, Git workflows & QA processes |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-8d8290328b58.gif" width="900">
-
 <br/>
 
 ## 💼 Professional Experience
@@ -110,7 +142,7 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=erpnext&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
 <br/><br/>
 
@@ -175,7 +207,7 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b1-b3d1-ebb46b22c8ea.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b1-b3d1-ebb46b22c8ea.gif" width="100%">
 
 <br/>
 
@@ -185,19 +217,25 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ### 💻 Languages & Databases
 
-<img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,mysql,postgres,sqlite&perline=9" alt="Languages and databases" />
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,mysql,postgres,sqlite&perline=9&theme=dark" alt="Languages and databases" />
 
 <br/><br/>
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind,sass,jquery,webpack&perline=8" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind,sass,jquery,webpack&perline=8&theme=dark" alt="Frontend stack" />
 
 <br/>
 
 <p align="center">
   <a href="https://babeljs.io" target="_blank" rel="noreferrer" title="Babel">
-    <img src="https://cdn.simpleicons.org/babel/F9DC5E" alt="Babel" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="48" height="48"/>
+  </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" title="Chart.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="Chart.js" width="48" height="48"/>
+  </a>
+  <a href="https://materializecss.com" target="_blank" rel="noreferrer" title="Materialize CSS">
+    <img src="https://cdn.simpleicons.org/materialize/FFFFFF" alt="Materialize" width="48" height="48"/>
   </a>
 </p>
 
@@ -205,22 +243,16 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,postman&perline=9" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,postman&perline=8&theme=dark" alt="Backend stack" />
 
 <br/>
 
 <p align="center">
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer" title="ElasticSearch">
-    <img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="ElasticSearch" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="48" height="48"/>
   </a>
   <a href="https://frappe.io/erpnext" target="_blank" rel="noreferrer" title="ERPNext">
-    <img src="https://cdn.simpleicons.org/erpnext/0089FF" alt="ERPNext" width="48" height="48"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" title="Chart.js">
-    <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="48" height="48"/>
-  </a>
-  <a href="https://materializecss.com" target="_blank" rel="noreferrer" title="Materialize CSS">
-    <img src="https://cdn.simpleicons.org/materialize/EE6E73" alt="Materialize" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/erpnext/FFFFFF" alt="ERPNext" width="48" height="48"/>
   </a>
 </p>
 
@@ -228,19 +260,28 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ### 🐳 DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,bash&perline=9" alt="DevOps stack" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,bash&perline=8&theme=dark" alt="DevOps stack" />
 
 <br/><br/>
 
 ### 🎨 Design, CMS & E-Commerce
 
-<img src="https://skillicons.dev/icons?i=figma,ps,xd,ai,wordpress,shopify&perline=9" alt="Design and CMS" />
+<img src="https://skillicons.dev/icons?i=figma,ps,xd,ai,wordpress,shopify&perline=8&theme=dark" alt="Design and CMS" />
 
 <br/>
 
 <p align="center">
   <a href="https://www.wix.com" target="_blank" rel="noreferrer" title="Wix">
-    <img src="https://cdn.simpleicons.org/wix/0C6EFC" alt="Wix" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/wix/FFFFFF" alt="Wix" width="48" height="48"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="Adobe Photoshop">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="48" height="48"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="Adobe XD">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="48" height="48"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer" title="Adobe Illustrator">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="48" height="48"/>
   </a>
 </p>
 
@@ -248,16 +289,13 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ### 🖥️ IDEs & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,apple&perline=8" alt="IDEs and platforms" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,apple&perline=8&theme=dark" alt="IDEs and platforms" />
 
 <br/>
 
 <p align="center">
   <a href="https://netbeans.apache.org" target="_blank" rel="noreferrer" title="NetBeans">
-    <img src="https://cdn.simpleicons.org/apachenetbeans/1B6AC6" alt="NetBeans" width="48" height="48"/>
-  </a>
-  <a href="https://cursor.com" target="_blank" rel="noreferrer" title="Cursor Editor">
-    <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="48" height="48"/>
   </a>
 </p>
 
@@ -266,28 +304,26 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 ### 🤖 AI-Assisted Development
 
 <p align="center">
+  <a href="https://cursor.com" target="_blank" rel="noreferrer" title="Cursor AI">
+    <img src="https://img.shields.io/badge/Cursor_AI-1E1B4B?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="Cursor AI" height="32"/>
+  </a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer" title="GitHub Copilot">
-    <img src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/GitHub_Copilot-1E1B4B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Copilot" height="32"/>
   </a>
   <a href="https://www.anthropic.com" target="_blank" rel="noreferrer" title="Claude AI">
-    <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude AI" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/Claude_AI-1E1B4B?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude AI" height="32"/>
   </a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-98b61649-cbe7-40d8-a628-8559489d3ed6.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-98b61649-cbe7-40d8-a628-8559489d3ed6.gif" width="100%">
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devsabirali&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0&bg_color=0D1117&border_radius=16&rank_icon=github" alt="GitHub stats" height="190"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=devsabirali&theme=transparent&hide_border=true&background=0D1117&border_radius=16&ring=38BDF8&fire=667eea&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&dates=94A3B8" alt="GitHub streak" height="190"/>
-
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsabirali&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&border_radius=16&langs_count=8" alt="Top languages" height="190"/>
 
@@ -319,7 +355,7 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 <div align="center">
 
 <img src="https://img.shields.io/badge/Engineering_Leadership-1E1B4B?style=for-the-badge&logo=teamspeak&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Full_Stack_Architecture-1E1B4B?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Full_Stack_Architecture-1E1B4B?style=for-the-badge&logo=graphql&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/System_Design-1E1B4B?style=for-the-badge&logo=apachespark&logoColor=F97316" />
 <img src="https://img.shields.io/badge/REST_APIs-1E1B4B?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
 
@@ -331,17 +367,7 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 <img src="https://img.shields.io/badge/Docker-1E1B4B?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Code_Reviews-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/E--Commerce-1E1B4B?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
-<img src="https://img.shields.io/badge/ERPNext-1E1B4B?style=for-the-badge&logo=erpnext&logoColor=0089FF" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img src="https://img.shields.io/badge/ERPNext-1E1B4B?style=for-the-badge&logo=python&logoColor=0089FF" />
 
 </div>
 
