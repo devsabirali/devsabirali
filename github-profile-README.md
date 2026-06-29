@@ -37,8 +37,11 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devsabirali&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=667eea&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&count_private=true" alt="GitHub streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=devsabirali&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=FFFFFF&count_private=true" alt="GitHub stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=devsabirali&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=667eea&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&count_private=true" alt="GitHub streak" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsabirali&theme=github_dark" alt="GitHub stats" width="100%"/>
 
 <br/><br/>
 
@@ -47,19 +50,15 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsabirali&theme=github_dark" alt="Profile details" width="100%"/>
-
-<br/><br/>
-
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake dark" width="100%"/>
 
 </div>
 
-> **Private repos:** Enable **Settings → Profile → Include private contributions on my profile**. README widgets only count private work if that setting is ON (they still cannot show private repo names).
+> **GitHub stats broken?** The old `github-readme-stats.vercel.app` service is down. This README now uses `github-profile-summary-cards` instead.
 >
-> **Snake not showing?** The workflow file must be at **`.github/workflows/snake.yml`** — NOT in the repo root. Delete `github-profile-snake.yml` from root if you added it there. Then: **Actions → Generate Snake → Run workflow** (~2 min until `output` branch exists).
+> **Snake not showing?** Run the workflow once: **Actions → Generate Snake → Run workflow**. Wait 2 min, then refresh. File must exist at `.github/workflows/snake.yml`.
 
 ---
 
