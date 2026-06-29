@@ -34,8 +34,8 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devsabirali&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=667eea&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsabirali&theme=github_dark" alt="GitHub stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=devsabirali&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=667eea&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&count_private=true" alt="GitHub streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devsabirali&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=FFFFFF&count_private=true" alt="GitHub stats" width="49%"/>
 
 <br/><br/>
 
@@ -46,9 +46,17 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsabirali&theme=github_dark" alt="Profile details" width="100%"/>
 
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
 </div>
 
-> **Snake animation:** Add `.github/workflows/snake.yml` (see `github-profile-snake.yml` in this folder), run the workflow once, then uncomment the snake block at the bottom of this README.
+> **Private repos:** Enable **Settings → Profile → Include private contributions on my profile**. README widgets only count private work if that setting is ON (they still cannot show private repo names).
+>
+> **Snake not showing?** You must add `.github/workflows/snake.yml` to your `devsabirali` profile repo, then go to **Actions → Generate Snake → Run workflow**. The snake appears after the `output` branch is created (~2 min).
 
 ---
 
@@ -329,15 +337,6 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 </div>
 
 <br/>
-
-<!--
-## 🐍 Contribution Snake
-Uncomment this section AFTER running the snake workflow once.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
-</div>
--->
 
 ---
 
