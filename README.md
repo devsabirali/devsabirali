@@ -25,6 +25,9 @@
 <a href="https://github.com/devsabirali" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://devsair.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-devsair.com-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevsAir Website"/>
+</a>
 
 </div>
 
@@ -56,7 +59,7 @@
 
 > **Private repos:** Enable **Settings → Profile → Include private contributions on my profile**. README widgets only count private work if that setting is ON (they still cannot show private repo names).
 >
-> **Snake not showing?** You must add `.github/workflows/snake.yml` to your `devsabirali` profile repo, then go to **Actions → Generate Snake → Run workflow**. The snake appears after the `output` branch is created (~2 min).
+> **Snake not showing?** The workflow file must be at **`.github/workflows/snake.yml`** — NOT in the repo root. Delete `github-profile-snake.yml` from root if you added it there. Then: **Actions → Generate Snake → Run workflow** (~2 min until `output` branch exists).
 
 ---
 
@@ -72,6 +75,7 @@ const sabir = {
   focus: ["Scalable Web Apps", "SaaS", "APIs", "DevOps", "Team Leadership"],
   languages: ["English", "Urdu"],
   currentlyLeading: "ICONAF — distributed full-stack engineering team",
+  company: "DevsAir — devsair.com",
 };
 ```
 
@@ -352,6 +356,9 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 </a>
 <a href="https://github.com/devsabirali" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://devsair.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DevsAir-Visit_Website-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevsAir"/>
 </a>
 
 <br/><br/>
