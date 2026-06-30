@@ -1,66 +1,53 @@
-# Private Contributions in README Stats
+# GitHub README Stats — Private & Company Repos
 
-Your GitHub **profile** shows ~948 contributions because you enabled **Include private contributions on my profile**.
+## Why stats cards showed 0 / images were broken
 
-Third-party README cards (`github-profile-summary-cards`, paused `github-readme-stats.vercel.app`) only read **public** API data — they cannot see private commits without your token.
+1. **`profile/stats.svg` did not exist** — the workflow never created those files (404).
+2. **Company org private repos (ICONAF, etc.)** — standard stats cards **cannot** show stars, PRs, or languages from org private repos on a README, even with a PAT, unless the org explicitly authorizes your token.
+3. **Your 948 contributions on GitHub profile** are correct — they come from GitHub’s own contribution graph.
 
-## What shows private vs public
+## What works for company + private contributions
 
-| Widget | Private contributions |
-|--------|------------------------|
-| GitHub profile green graph | Yes (with profile setting ON) |
-| Streak stats (`streak-stats.demolab.com`) | Uses visible contribution graph |
-| Snake animation | Uses visible contribution graph |
-| Old summary-cards / public vercel stats | No — public only |
-| **GitHub Action + PAT** (`grs.yml`) | Yes — personal private repos |
+These read your **public contribution graph** (the same green squares on your profile):
 
-**Org private repos (ICONAF):** Commits count on your profile graph if GitHub attributes them to you, but language/stars/PR stats may still be limited by org permissions even with a PAT.
+| Widget | Shows private/company commits? |
+|--------|-------------------------------|
+| **Streak stats** | Yes — if they appear on your profile graph |
+| **Activity graph** | Yes — same graph data |
+| **Snake animation** | Yes — same graph data |
+| Stats / Top languages cards | No for org private repos |
 
----
-
-## One-time setup (required for stats cards)
-
-### 1. Create a Personal Access Token (Classic)
-
-Log in as **devsabirali** → **Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token**
-
-Scopes:
-- `read:user`
-- `repo` (needed for private repo stats)
-
-Copy the token.
-
-### 2. Add token as repo secret
-
-Open **https://github.com/devsabirali/devsabirali** → **Settings → Secrets and variables → Actions → New repository secret**
-
-| Name | Value |
-|------|--------|
-| `STATS_PAT` | your token |
-
-### 3. Push workflow and run it
-
-Push `.github/workflows/grs.yml` to `main`, then:
-
-**Actions → Update README Stats → Run workflow**
-
-Wait ~1 minute. This creates:
-- `profile/stats.svg`
-- `profile/top-langs.svg`
-
-Your README embeds these files — they update daily and include private data.
-
-### 4. Also run snake workflow
-
-**Actions → Generate Snake → Run workflow**
+Your README now uses **streak + activity graph + snake** only — no broken local SVG files.
 
 ---
 
-## Push commands
+## Profile setting (required)
+
+**GitHub → Settings → Profile → Include private contributions on my profile** ✅
+
+---
+
+## Optional: personal private repo stats cards
+
+Only if you want extra cards for **your own** private repos (not ICONAF org):
+
+1. Create PAT (classic) with `repo` + `read:user`
+2. Add secret `STATS_PAT` on `devsabirali/devsabirali`
+3. Run **Actions → Update README Stats**
+
+For **ICONAF org** private repos, also go to:
+
+**GitHub → Settings → Applications → Authorized OAuth Apps** (or PAT settings) → **Configure SSO** → Authorize token for **ICONAF**
+
+Even then, language breakdown may stay limited.
+
+---
+
+## Push updated README
 
 ```powershell
 cd D:\Data\prep-h1b\devsabirali
-git add .
-git commit -m "Use GitHub Action for private stats cards"
+git add README.md github-profile-README.md GITHUB_PROFILE_SETUP.md
+git commit -m "Fix stats: use contribution graph widgets for private/company commits"
 git push upstream main
 ```

@@ -41,14 +41,13 @@
 
 <br/><br/>
 
-<img src="./profile/stats.svg" alt="GitHub stats" width="49%"/>
-<img src="./profile/top-langs.svg" alt="Top languages" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsabirali&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=FFFFFF&area=true&height=300" alt="GitHub contribution graph" width="100%"/>
 
 <br/><br/>
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake dark" width="100%"/>
+<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
