@@ -47,7 +47,13 @@ Even then, language breakdown may stay limited.
 
 ```powershell
 cd D:\Data\prep-h1b\devsabirali
-git add README.md github-profile-README.md GITHUB_PROFILE_SETUP.md
-git commit -m "Fix stats: use contribution graph widgets for private/company commits"
+git add README.md github-profile-README.md .github/workflows/snake.yml
+git commit -m "Fix streak URL encoding and snake asset path"
 git push upstream main
 ```
+
+## Run snake workflow (required once)
+
+**Actions → Generate Snake → Run workflow**
+
+This creates `assets/contribution-snake.svg` on the `main` branch (snake appears after ~2 min).

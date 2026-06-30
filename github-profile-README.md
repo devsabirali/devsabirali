@@ -37,17 +37,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devsabirali&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=667eea&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=devsabirali&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=38BDF8&amp;fire=667eea&amp;currStreakLabel=38BDF8&amp;sideNums=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideLabels=94A3B8&amp;dates=94A3B8" alt="GitHub streak" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsabirali&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=FFFFFF&area=true&height=300" alt="GitHub contribution graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsabirali&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=A78BFA&amp;point=FFFFFF&amp;area=true&amp;height=300" alt="GitHub contribution graph" width="100%"/>
 
 <br/><br/>
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/main/assets/contribution-snake.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
