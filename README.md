@@ -47,7 +47,7 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/main/assets/contribution-snake.svg" alt="Contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/devsabirali/devsabirali/main/assets/contribution-snake.svg?v=1" alt="Contribution snake" width="100%"/>
 
 </div>
 

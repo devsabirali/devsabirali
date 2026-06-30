@@ -54,6 +54,14 @@ git push upstream main
 
 ## Run snake workflow (required once)
 
-**Actions → Generate Snake → Run workflow**
+1. Push the updated `snake.yml` to GitHub
+2. Go to **https://github.com/devsabirali/devsabirali/actions**
+3. Click **Generate Snake** → **Run workflow** → **Run workflow**
+4. Wait until the run shows a **green checkmark** (~2 min)
+5. Confirm this file exists (should show an SVG, not 404):
 
-This creates `assets/contribution-snake.svg` on the `main` branch (snake appears after ~2 min).
+   `https://raw.githubusercontent.com/devsabirali/devsabirali/main/assets/contribution-snake.svg`
+
+6. Refresh your profile — snake will appear
+
+**If workflow fails:** open the failed run → read the red error log and fix permissions under **Settings → Actions → General → Allow all actions**.

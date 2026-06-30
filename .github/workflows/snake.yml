@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/snake.yml
 
 permissions:
   contents: write
@@ -12,8 +17,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -22,15 +29,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark
 
-      - name: Copy snake to assets folder
+      - name: Save snake to assets folder
         run: |
           mkdir -p assets
+          ls -la dist/
           cp dist/github-contribution-grid-snake.svg assets/contribution-snake.svg
+          ls -la assets/
 
-      - name: Commit snake to main branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-snake.svg
-          git commit -m "Update contribution snake" || exit 0
-          git push
+      - name: Commit snake to main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update contribution snake"
+          file_pattern: assets/contribution-snake.svg
+          branch: main
