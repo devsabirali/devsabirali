@@ -37,16 +37,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devsabirali&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=667eea&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&count_private=true" alt="GitHub streak" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=devsabirali&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=667eea&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsabirali&theme=github_dark" alt="GitHub stats" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsabirali&theme=github_dark" alt="Top languages by repos" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devsabirali&theme=github_dark" alt="Top languages by commits" width="49%"/>
+<img src="./profile/stats.svg" alt="GitHub stats" width="49%"/>
+<img src="./profile/top-langs.svg" alt="Top languages" width="49%"/>
 
 <br/><br/>
 
