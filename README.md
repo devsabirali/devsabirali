@@ -71,9 +71,9 @@ const sabir = {
 
 </div>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="500" valign="top">
 
 **Who I am**
 
@@ -82,7 +82,7 @@ Full Stack Engineering Team Lead with experience leading cross-functional teams 
 I build **scalable web applications**, **SaaS platforms**, and **modern full-stack architectures** with production-grade quality.
 
 </td>
-<td width="50%" valign="top">
+<td width="500" valign="top">
 
 **What I deliver**
 
@@ -100,10 +100,10 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ### ✨ What I Do
 
-<table width="100%">
+<table align="center">
 <tr>
-<th width="22%" align="left">Area</th>
-<th width="78%" align="left">Focus</th>
+<th width="200" align="left">Area</th>
+<th width="800" align="left">Focus</th>
 </tr>
 <tr>
 <td>🚀 <strong>Leadership</strong></td>
@@ -145,9 +145,9 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 <br/>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td width="100%">
+<td width="1000" valign="top">
 
 ### 🏢 ICONAF — South Africa
 **Full Stack Developer Team Lead** · `Mar 2025 – Present`  
@@ -175,9 +175,9 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 <br/>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td width="100%">
+<td width="1000" valign="top">
 
 ### 🛒 PriceOye.pk — Islamabad
 **Laravel Developer** · `Sep 2024 – Mar 2025` · Onsite
@@ -201,9 +201,9 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 <br/>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td width="100%">
+<td width="1000" valign="top">
 
 ### 🕸️ Web Spider (Pvt) Ltd — Remote
 **Junior Web Developer** · `Jan 2023 – Sep 2024`
@@ -320,12 +320,12 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ## 🎓 Education
 
-<table width="100%">
+<table align="center">
 <tr>
-<th width="28%" align="left">🎓 Degree</th>
-<th width="32%" align="left">🏫 Institution</th>
-<th width="22%" align="left">📅 Period</th>
-<th width="18%" align="left">📈 Result</th>
+<th width="280" align="left">🎓 Degree</th>
+<th width="320" align="left">🏫 Institution</th>
+<th width="200" align="left">📅 Period</th>
+<th width="200" align="left">📈 Result</th>
 </tr>
 <tr>
 <td><strong>Bachelor of Computer Science</strong></td>
@@ -345,11 +345,11 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ## 🏅 Certifications
 
-<table width="100%">
+<table align="center">
 <tr>
-<th width="40%" align="left">📜 Certification</th>
-<th width="40%" align="left">🏢 Issuer</th>
-<th width="20%" align="left">📅 Year</th>
+<th width="400" align="left">📜 Certification</th>
+<th width="400" align="left">🏢 Issuer</th>
+<th width="200" align="left">📅 Year</th>
 </tr>
 <tr>
 <td><strong>Laravel (WEB Engineering - Advanced)</strong></td>
