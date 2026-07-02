@@ -71,7 +71,7 @@ const sabir = {
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -100,16 +100,44 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ### ✨ What I Do
 
-| | |
-|:---:|:---|
-| 🚀 **Leadership** | Lead frontend, backend & UI/UX teams across distributed environments |
-| 🏗️ **Architecture** | Design scalable full-stack systems & RESTful APIs |
-| ⚡ **Frontend** | React.js, Next.js, Vue.js — responsive & performance-optimized UI |
-| 🔧 **Backend** | FastAPI, Laravel, Node.js, MySQL, PostgreSQL |
-| 🐳 **DevOps** | Docker, CI/CD, Linux servers, production deployments |
-| 🛒 **E-Commerce** | Laravel + Vue.js, ElasticSearch, CMS & store platforms |
-| 📊 **ERP** | Frappe ERPNext customization & business automation |
-| 👥 **Quality** | Code reviews, mentoring, Git workflows & QA processes |
+<table width="100%">
+<tr>
+<th width="22%" align="left">Area</th>
+<th width="78%" align="left">Focus</th>
+</tr>
+<tr>
+<td>🚀 <strong>Leadership</strong></td>
+<td>Lead frontend, backend & UI/UX teams across distributed environments</td>
+</tr>
+<tr>
+<td>🏗️ <strong>Architecture</strong></td>
+<td>Design scalable full-stack systems & RESTful APIs</td>
+</tr>
+<tr>
+<td>⚡ <strong>Frontend</strong></td>
+<td>React.js, Next.js, Vue.js — responsive & performance-optimized UI</td>
+</tr>
+<tr>
+<td>🔧 <strong>Backend</strong></td>
+<td>FastAPI, Laravel, Node.js, MySQL, PostgreSQL</td>
+</tr>
+<tr>
+<td>🐳 <strong>DevOps</strong></td>
+<td>Docker, CI/CD, Linux servers, production deployments</td>
+</tr>
+<tr>
+<td>🛒 <strong>E-Commerce</strong></td>
+<td>Laravel + Vue.js, ElasticSearch, CMS & store platforms</td>
+</tr>
+<tr>
+<td>📊 <strong>ERP</strong></td>
+<td>Frappe ERPNext customization & business automation</td>
+</tr>
+<tr>
+<td>👥 <strong>Quality</strong></td>
+<td>Code reviews, mentoring, Git workflows & QA processes</td>
+</tr>
+</table>
 
 ---
 
@@ -117,9 +145,9 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
 
 ### 🏢 ICONAF — South Africa
 **Full Stack Developer Team Lead** · `Mar 2025 – Present`  
@@ -147,9 +175,9 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
 
 ### 🛒 PriceOye.pk — Islamabad
 **Laravel Developer** · `Sep 2024 – Mar 2025` · Onsite
@@ -173,9 +201,9 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
 
 ### 🕸️ Web Spider (Pvt) Ltd — Remote
 **Junior Web Developer** · `Jan 2023 – Sep 2024`
@@ -292,20 +320,53 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📅 Period | 📈 Result |
-|-----------|----------------|-----------|-----------|
-| **Bachelor of Computer Science** | Federal Urdu University, Islamabad | 2018 – 2022 | **CGPA: 3.65** |
-| **Intermediate of Computer Science (FSC)** | Prince Salman College of Professional Education | 2016 – 2018 | — |
+<table width="100%">
+<tr>
+<th width="28%" align="left">🎓 Degree</th>
+<th width="32%" align="left">🏫 Institution</th>
+<th width="22%" align="left">📅 Period</th>
+<th width="18%" align="left">📈 Result</th>
+</tr>
+<tr>
+<td><strong>Bachelor of Computer Science</strong></td>
+<td>Federal Urdu University, Islamabad</td>
+<td>2018 – 2022</td>
+<td><strong>CGPA: 3.65</strong></td>
+</tr>
+<tr>
+<td><strong>Intermediate of Computer Science (FSC)</strong></td>
+<td>Prince Salman College of Professional Education</td>
+<td>2016 – 2018</td>
+<td>—</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🏅 Certifications
 
-| 📜 Certification | 🏢 Issuer | 📅 Year |
-|------------------|-----------|---------|
-| **Laravel (WEB Engineering - Advanced)** | Pakistan Software Export Board (PSEB) | Sep 2022 |
-| **React.js** | Professional Freelancing Training Program | Oct 2022 |
-| **Front-End Development** | Professional Freelancing Training Program | Sep 2022 |
+<table width="100%">
+<tr>
+<th width="40%" align="left">📜 Certification</th>
+<th width="40%" align="left">🏢 Issuer</th>
+<th width="20%" align="left">📅 Year</th>
+</tr>
+<tr>
+<td><strong>Laravel (WEB Engineering - Advanced)</strong></td>
+<td>Pakistan Software Export Board (PSEB)</td>
+<td>Sep 2022</td>
+</tr>
+<tr>
+<td><strong>React.js</strong></td>
+<td>Professional Freelancing Training Program</td>
+<td>Oct 2022</td>
+</tr>
+<tr>
+<td><strong>Front-End Development</strong></td>
+<td>Professional Freelancing Training Program</td>
+<td>Sep 2022</td>
+</tr>
+</table>
 
 <br/>
 
