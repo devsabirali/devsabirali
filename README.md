@@ -340,7 +340,6 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 <td>—</td>
 </tr>
 </table>
-
 <br/>
 
 ## 🏅 Certifications
@@ -369,7 +368,6 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 </table>
 
 <br/>
-
 ## 💡 Core Competencies
 
 <div align="center">
@@ -395,7 +393,7 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect 
 
 <div align="center">
 
@@ -416,7 +414,7 @@ I build **scalable web applications**, **SaaS platforms**, and **modern full-sta
 
 **Full Stack Engineering Team Lead**
 
-*Translating business requirements into scalable, production-ready technical solutions.*
+*Translating business requirements into scalable, production-ready technical solutions. *
 
 <br/>
 
