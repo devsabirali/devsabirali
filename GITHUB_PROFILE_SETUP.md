@@ -63,5 +63,3 @@ git push upstream main
    `https://raw.githubusercontent.com/devsabirali/devsabirali/main/assets/contribution-snake.svg`
 
 6. Refresh your profile — snake will appear
-
-**If workflow fails:** open the failed run → read the red error log and fix permissions under **Settings → Actions → General → Allow all actions**.
